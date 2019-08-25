@@ -4,7 +4,7 @@
 ###### This is my portfolio and experimental platform.
 
 According to an ancient Chinese Proverb:
->A journey of a thousand miles begins with a single step.
+>A journey of a thousand miles begins with a single step."
 
 A note about '**Growth Mindset**;'
 Attaining a growth mindset is key to thriving in any demanding situation - personal or professional.  
@@ -26,7 +26,8 @@ I intend to develop my Growth Mindset by remembering the following:
     * What can I __learn__ from this result?  Have I looked for a *new possibility* in it \(to apply here or elsewhere\)?
 
 1. One rarely appreciates the progress one is making at the time.  Periodically \(especially when things don't seem to be going well\), I will need to take a step back and look at where I was a year previous.  Have I made progress since then?  Can I remember the milestones I have passed?  Am I 'enjoying a better view' now than I was then?  
-Then take a moment to bask in 'the view,' and remind myself that a year from now this moment will likely be forgotten and I will have moved through it \(and benefitted from its lessons\) to make yet more progress\!  
+
+Then take a moment to bask in 'the view,' and remind myself that a year from now this moment will likely be forgotten and I will have moved through it \(and benefitted from its lessons\) to make yet more progress!  
 
 Armed with these reminders, I will dive back into the fray.
 
