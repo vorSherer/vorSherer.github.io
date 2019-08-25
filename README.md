@@ -8,7 +8,12 @@ According to an ancient Chinese Proverb:
 
 A note about '**Growth Mindset**;'
     Attaining a growth mindset is key to thriving in any demanding situation - personal or professional.  
-    Developing a growth mindset entails acknowledging that one is going to fail far more often than one is going to succeed in any new endeavor - to push forward, one must try _something_ to progress - and that something is more likely to fail \(to some degree\) more often than not.  Each failure, however, teaches something; it may have yielded a partial success that may be follow-up on, it may uncover a new possibility one hadn't before considered and take the pursuit in a new direction, or it may show that this particular experiment is a dead end on otherwise not productive to pursue.  One must then be willing to follow-up, to take yet another step in this "...journey of a thousand miles...."
+
+    Developing a growth mindset entails acknowledging that one is going to fail far more often than one is going to succeed in any new endeavor - to push forward, one must try _something_ to progress - and that something is more likely to fail \(to some degree\) more often than not.  
+    
+    Each failure, however, teaches something; it may have yielded a partial success that may be follow-up on, it may uncover a new possibility one hadn't before considered and take the pursuit in a new direction, or it may show that this particular experiment is a dead end on otherwise not productive to pursue.  
+    
+    One must then be willing to follow-up, to take yet another step in this "...journey of a thousand miles...."
 
 
     I intend to develop my Growth Mindset by remembering the following:
