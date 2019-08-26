@@ -6,7 +6,7 @@
 According to an ancient Chinese Proverb:
 >A journey of a thousand miles begins with a single step."
 
-A note about '**Growth Mindset**;'
+A note about '**Growth Mindset**' --
 Attaining a growth mindset is key to thriving in any demanding situation - personal or professional.  
 
 Developing a growth mindset entails acknowledging that one is going to fail far more often than one is going to succeed in any new endeavor - to push forward, one must try _something_ to progress - and that something is more likely to fail \(to some degree\) more often than not.  

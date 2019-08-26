@@ -8,5 +8,5 @@ I used to build my own computers back in the WIN 3.x era and early WIN 9x era, b
 
 Whenever I get overtaxed with "computer stuff" I'm starting to get into woodworking and building out a woodshop/maker space in my garage.
 
-I am also a bit of an animal-whisperer (though my wife and daughter pronounce it "pet-stealer") as I have a knack for quickly building a  report with their pets.
+I am also a bit of an animal-whisperer (though my wife and daughter pronounce it "pet-stealer") as I have a knack for quickly building a  rapport with their pets.
 
