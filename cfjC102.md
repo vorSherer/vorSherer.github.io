@@ -10,5 +10,7 @@ Below is a chronicle of my Coding 102 experience.
 
 [Day 3](day3C102.md) - Introduction to HTML and CSS
 
-[Day 4](day4C102.md) - Designing and building a web site as a team
+[Day 4](day4C102.md) - Designing and building a web site as a team; Sections 4, 5 and 6.
+
+[Day 5](day5C102.md) - Intro to JavaScript; section 7.
 
